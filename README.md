@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <a href:"https://skill-swap-ten.vercel.app/">skiwap</a>
+- 🔭 I’m currently working on <a href="https://skill-swap-ten.vercel.app/">skiwap</a>
 - 💬 Ask me about Anything really..
 - 😄 Pronouns: He/Him
 
