@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developper based in Paris.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TenpennyUMFPOS&label=Profile%20views&color=0e75b6&style=flat" alt="el-hadji-mamadou-sarr" /> </p>
 
 # 💫 About Me:
 
